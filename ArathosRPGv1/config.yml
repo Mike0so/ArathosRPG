@@ -1,0 +1,39 @@
+General:
+  Lores:
+    Health:
+      keyword: health
+      base-health: 20
+    FoodMana:
+      keyword: mana
+    HealthRegen:
+      keyword: regen
+    Damage:
+      keyword: damage
+    Dodge:
+      keyword: dodge
+    Critt-Chance:
+      keyword: critt-chance
+    Critt-Damage:
+      keyword: critt-damage
+    Life-Steal:
+      keyword: life-steal
+    Armour:
+      keyword: armour
+    Level:
+      message: "Your level is to low to wear this Item."
+  Food:
+    Health:
+      keyword: health
+  Plugin:
+    Support:
+      Holograms:
+        mana:
+          color: '&b'
+          prefix: Mana
+        health:
+          color: '&a'
+          prefix: Health
+        damage:
+          color: '&4'
+          prefix: Health
+      holo-shownfor: 5

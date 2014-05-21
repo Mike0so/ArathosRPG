@@ -1,0 +1,22 @@
+name: ArathosRPG
+main: www.arathos.de.mikeoso.plugin.Main
+version: 0.6 <beta>
+description: ArathosRPG is a whole RPG based system for Minecraft.
+author: Mike0so
+softdepend: [Heroes , HoloAPI]
+commands:
+  arpg:
+    description: Shows all important information for the Plugin.
+permissions:
+   arpg.help:
+     default: op
+   arpg.duplicate:
+     default: op
+   arpg.rename:
+     default: op
+   arpg.addlore:
+     default: op
+   arpg.hologram:
+     default: op
+   arpg.reload:
+     default: op
